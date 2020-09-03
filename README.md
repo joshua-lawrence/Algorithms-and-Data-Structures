@@ -5,7 +5,7 @@ Algorithms and data structures in Java
 ## Check lists
 
 #### Data Structures
-- [ ] Linked List
+- [X] Linked List
 - [ ] Stack
 - [ ] Queue
 - [ ] Binary Heap
