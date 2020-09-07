@@ -4,16 +4,25 @@ public class LinkedList {
 	
 	public Node head;
 	
+	
+	//LinkedList contains a static node class
 	static class Node {
+		
+		//Stored value, in this case integer.
 		int value;
+		
+		//Next pointer, points to the next value in the linked list
 		Node next;
 		
+		//Node constructor, is created with a value
 		Node(int v) {
 			value = v;
 			next = null;
 		}
 	}
 	
+	
+	//To push a value to the front, create a new Node, then set the next value of the created Node to the head. Then set the head of the LinkedList to the created node.
 	public void pushNode(int value) {
 		Node front = new Node(value);
 		front.next = head;
@@ -26,6 +35,10 @@ public class LinkedList {
 			n = n.next;
 		}
 		n.next = new Node(value);
+	}
+	
+	public void deleteNode(int index) {
+
 	}
 	
 	public void printList() {
