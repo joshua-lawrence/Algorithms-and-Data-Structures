@@ -16,7 +16,7 @@ Algorithms and data structures in Java
 
 
 #### Algorithms
-- [ ] Bread First Serach
+- [ ] Bread First Search
 - [ ] Bubble Sort
 - [ ] Caesar Encryption
 - [ ] Depth First Search
@@ -26,7 +26,7 @@ Algorithms and data structures in Java
 - [ ] Object Hash
 - [ ] Quick Sort
 - [ ] Selection Sort
-- [ ] String hash
+- [ ] String Hash
 
 #### Math
 - [ ] Euclidean Distance
