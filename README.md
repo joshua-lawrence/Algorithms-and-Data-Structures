@@ -8,7 +8,7 @@ Algorithms and data structures in Java
 - [X] Linked List
 - [ ] Stack
 - [ ] Queue
-- [ ] Binary Heap
+- [X] Binary Tree
 - [ ] Binary Search Tree
 - [ ] Hash Map
 - [ ] Heap
