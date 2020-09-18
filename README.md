@@ -16,7 +16,7 @@ Algorithms and data structures in Java
 
 
 #### Algorithms
-- [ ] Bread First Search
+- [ ] Breadth First Search
 - [ ] Bubble Sort
 - [ ] Caesar Encryption
 - [ ] Depth First Search
@@ -44,5 +44,5 @@ Algorithms and data structures in Java
 - [ ] Capitalize Odds
 - [ ] Hamming Distance
 - [ ] Jaccard Index
-- [ ] Sorence Dice
-- [ ] String permutation
+- [ ] Sorenson Dice
+- [ ] String Permutation
