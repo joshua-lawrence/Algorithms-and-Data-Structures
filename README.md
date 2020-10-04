@@ -25,7 +25,7 @@ Algorithms and data structures in Java
 - [ ] Merge Sort
 - [ ] Object Hash
 - [ ] Quick Sort
-- [ ] Selection Sort
+- [X] Selection Sort
 - [ ] String Hash
 
 #### Math
