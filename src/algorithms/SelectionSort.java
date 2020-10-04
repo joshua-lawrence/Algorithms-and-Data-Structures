@@ -2,8 +2,6 @@ package algorithms;
 
 public class SelectionSort {
 	
-
-	
 	void sort(int values[]) {
 		//array length
 		int n = values.length;
@@ -34,23 +32,20 @@ public class SelectionSort {
 
 	}
 	
-    void printArray(int arr[]) 
-    { 
+    void printArray(int arr[]) { 
         int n = arr.length; 
-        for (int i=0; i<n; ++i) 
-            System.out.print(arr[i]+" "); 
+        for (int i=0; i<n; ++i) {
+        	System.out.print(arr[i]+" "); 
+        }
         System.out.println(); 
     } 
 
 	public static void main(String[] args) {
-		
 		SelectionSort ss = new SelectionSort();
-		
 		int arr[] = {4, 23, 14, 202, 32, 31, 40, 1};
 		ss.printArray(arr);
 		ss.sort(arr);
 		ss.printArray(arr);
-
 	}
 
 }
