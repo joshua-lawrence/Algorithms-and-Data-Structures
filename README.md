@@ -2,7 +2,7 @@
 
 Algorithms and data structures in Java
 
-## Check lists
+## Check list
 
 #### Data Structures
 - [X] Linked List
