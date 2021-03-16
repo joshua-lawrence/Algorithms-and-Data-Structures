@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Algorithms---Data-Structures.iml" filepath="$PROJECT_DIR$/Algorithms---Data-Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algo-ds.iml" filepath="$PROJECT_DIR$/algo-ds.iml" />
     </modules>
   </component>
 </project>
