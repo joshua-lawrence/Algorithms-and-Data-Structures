@@ -4,7 +4,7 @@ package datastructures;
 //Can create a stack with either an array or a linked list.
 public class Stack<T> {
 
-    private Integer count = 0;
+    private Integer count = 1;
     LinkedList<T> list;
 
     Stack(T value) {

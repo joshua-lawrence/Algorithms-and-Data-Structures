@@ -65,8 +65,21 @@ public class LinkedList<T> {
             previous = current;
             current = current.getNext();
         }
-        previous.deleteNext();
+        if(previous != null) {
+            previous.deleteNext();
+        }
         return current.getData();
+    }
+
+    public T getFirst() {
+        Node<T> first = this.head;
+        if(first.getNext() != null) {
+            this.head = first.getNext();
+        }
+        else {
+            this.head = null;
+        }
+        return first.getData();
     }
 
     public void printList() {
